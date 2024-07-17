@@ -9,8 +9,8 @@ This repository contains implementations of seven different machine learning alg
 1. **Linear Regression**
    - A simple algorithm to model the relationship between a dependent variable and one or more independent variables using a linear equation.
 
-2. **Logistic Regression**
-   - A classification algorithm used to predict the probability of a binary outcome, making use of the logistic function.
+2. **Naive Bayes**
+   - A classification algorithm used to predict the probability of a class outcome, based on the assumption of independence among predictors, using Bayesian probability theory.
 
 3. **Decision Tree**
    - A non-parametric supervised learning method used for classification and regression. It models decisions and their possible consequences in a tree-like structure.
