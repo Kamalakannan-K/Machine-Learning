@@ -1,7 +1,3 @@
-Here's a structured template for your README file, highlighting the seven machine learning algorithms you've implemented:
-
----
-
 # Machine Learning Algorithms Collection
 
 ## Overview
